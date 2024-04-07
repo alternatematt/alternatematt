@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm a Computer Science student**
-- 🌱 I’m currently learning `python` and `Javascript`
+- 🌱 I’m currently learning `Python` and `Javascript`
 - 🔭 I’m currently working on a [to-do-list](https://github.com/alternatematt/to-do-list) that uses `tkinter` for the interface
 - ⚡ Hobbies: Gaming, Programming and Gym 
 
