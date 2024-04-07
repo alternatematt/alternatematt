@@ -2,7 +2,7 @@
 
 **I'm a Computer Science student**
 - 🌱 I’m currently learning `Java` and `Javascript`
-- 🔭 I’m currently working on a [to-do-list](https://github.com/alternatematt/to-do-list) that uses `tkinter` for the interface
+- 🔭 I’m currently working on a [to-do-list](https://github.com/alternatematt/to-do-list) in `python`that uses `tkinter` as the interface
 - ⚡ Hobbies: Gaming, Programming and Gym 
 
 <!--
