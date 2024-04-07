@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 **I'm a Computer Science student**
-- 🌱 I’m currently learning `python`
-- 🔭 I’m currently working on a to do list that uses `tkinter` for the interface 
+- 🌱 I’m currently learning `python` and `Javascript`
+- 🔭 I’m currently working on a [to-do-list](https://github.com/alternatematt/to-do-list) that uses `tkinter` for the interface
+- ⚡ Hobbies: Gaming, Programming and Gym 
 
 <!--
 **alternatematt/alternatematt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
