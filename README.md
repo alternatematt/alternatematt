@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**I'm a Computer Science student**
+- 🌱 I’m currently learning `python`
+- 🔭 I’m currently working on a to do list that uses `tkinter` for the interface 
+
 <!--
 **alternatematt/alternatematt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
