@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCgDh1ydQUkeGJTQ_lHcTyN6uI6uD33sFR6dzMNY65Q&s](https://cdn.discordapp.com/attachments/1120085300463542282/1239172378194481213/Screenshot_20240512_120816_Instagram.jpg?ex=6641f4b5&is=6640a335&hm=d84ecfc391f4c5278a39090e93130f98f39449f13663cb9b4d5a2787c39a4f52&)" width=200px>
+<img src="https://preview.redd.it/will-write-code-for-a-dolla-v0-7u63jj6r9xyc1.jpeg?auto=webp&s=0520d64eaab7c3c1e05a8c65449ef0110ae6a930" width=200px>
 <!--
 **I'm a Computer Science student**
 - 🌱 I’m currently learning `Java` and `Javascript`
