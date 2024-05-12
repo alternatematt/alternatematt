@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCgDh1ydQUkeGJTQ_lHcTyN6uI6uD33sFR6dzMNY65Q&s" width=200px>
 <!--
 **I'm a Computer Science student**
 - 🌱 I’m currently learning `Java` and `Javascript`
