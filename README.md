@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img src="https://preview.redd.it/will-write-code-for-a-dolla-v0-7u63jj6r9xyc1.jpeg?auto=webp&s=0520d64eaab7c3c1e05a8c65449ef0110ae6a930" width=300px>
+
 <!--
+
+<img src="https://preview.redd.it/will-write-code-for-a-dolla-v0-7u63jj6r9xyc1.jpeg?auto=webp&s=0520d64eaab7c3c1e05a8c65449ef0110ae6a930" width=300px>
 **I'm a Computer Science student**
 - 🌱 I’m currently learning `Java` and `Javascript`
 - 🔭 I’m currently working on a [to-do-list](https://github.com/alternatematt/to-do-list) in `python`that uses `tkinter` as the interface
